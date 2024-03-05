@@ -1,0 +1,30 @@
+[{"title":"Discos",
+"description":"antiguo",
+"price":1200,
+"stock":12,
+"code":"a123",
+"thumbnail":[],
+"id":"b2cf1d0ba9c56d83b66b",
+"img": "https://imgs.search.brave.com/MpsvyjHj2CDMZc_qughw1Y0qGgBF9su8CsIMvAnDTPQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/bGFnYWNldGEuY29t/LmFyL2ZvdG9zL25v/dGFzLzIwMTYvMDUv/MDMvOTcweDU0Nl82/ODA1NzRfMjAxNjA1/MDMxMjQwNDAud2Vi/cA"
+},
+
+
+{"title":"Libros",
+"description":"clásico",
+"price":800,
+"stock":10,
+"code":"b456",
+"thumbnail":[],
+"id":"c4633f06001ec6ff98c4"
+},
+
+
+
+{"title":"Monitor",
+"description":"de cheto",
+"price":3000,
+"stock":8,
+"code":"M012",
+"thumbnail":[],
+"id":"c4f77242087b49419587"
+}]
